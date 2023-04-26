@@ -1,5 +1,7 @@
 # Gerador de Cores
 
+![Captura de tela do Gerador de Cores](img/captura-de-tela.png =800x400)
+
 Este projeto consiste em gerar cores aleatórias em formato hexadecimal. Foi desenvolvido utilizando conceitos importantes como arrays, seletores de elementos HTML, manipulação do DOM, eventos, geração de números aleatórios e operações matemáticas.
 
 ## Funcionamento
