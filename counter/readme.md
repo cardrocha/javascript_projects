@@ -1,4 +1,4 @@
-# Contador
+## Contador
 Este é um projeto simples de contador, criado com HTML, CSS e JavaScript. O objetivo deste projeto é demonstrar alguns conceitos importantes do JavaScript, como a manipulação do DOM e a utilização de eventos.
 
 ## Funcionamento do contador
